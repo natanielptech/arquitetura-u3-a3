@@ -25,6 +25,7 @@ flowchart LR
 | [`docs/02-c4-monolito.md`](docs/02-c4-monolito.md) | C4: contexto, contêineres, componentes, código, deployment |
 | [`docs/03-c4-microservices.md`](docs/03-c4-microservices.md) | C4 dos microsserviços + mensageria |
 | [`docs/04-uml.md`](docs/04-uml.md) | UML: sequência, classes, estados, atividades, componentes, implantação |
+| [`docs/05-ddd-decomposicao-microservices.md`](docs/05-ddd-decomposicao-microservices.md) | DDD, bounded contexts e estratégias de decomposição de microsserviços |
 | [`run.sh`](run.sh) | Compila e executa |
 
 ## Executando (requer JDK 17+)
